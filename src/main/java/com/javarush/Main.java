@@ -1,4 +1,4 @@
-package com.javarush.november.aleev;
+package com.javarush;
 
 public class Main {
     public static void main(String[] args) {
